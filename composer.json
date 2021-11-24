@@ -1,0 +1,17 @@
+{
+    "name": "evgeniizab/m2-ezcore-module",
+    "description": "EZCore module",
+    "type": "magento2-module",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "php": "^7.3",
+        "magento/magento-composer-installer": "*",
+        "psr/log": "^1.1"
+    },
+    "autoload": {
+        "psr-4": { "EvgeniiZab\\EZCore\\": "" },
+        "files": [ "registration.php" ]
+    }
+}
