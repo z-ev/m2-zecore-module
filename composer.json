@@ -1,6 +1,6 @@
 {
-    "name": "evgeniizab/m2-ezcore-module",
-    "description": "EZCore module",
+    "name": "z-ev/m2-zecore-module",
+    "description": "ZECore module",
     "type": "magento2-module",
     "license": [
         "MIT"
@@ -11,7 +11,7 @@
         "psr/log": "^1.1"
     },
     "autoload": {
-        "psr-4": { "EvgeniiZab\\EZCore\\": "" },
+        "psr-4": { "ZEV\\ZECore\\": "" },
         "files": [ "registration.php" ]
     }
 }

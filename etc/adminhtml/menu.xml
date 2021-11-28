@@ -3,8 +3,8 @@
 <!--See LICENSE for license details. -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <add id="EvgeniiZab_EZCore::menu"
-             title="EZC" module="EvgeniiZab_EZCore"
+        <add id="ZEV_EZCore::menu"
+             title="ZEV" module="ZEV_EZCore"
              sortOrder="10"
              resource="Magento_Backend::content"
         />
