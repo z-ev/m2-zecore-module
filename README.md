@@ -1,1 +1,1 @@
-# m2-ezcore-module
+# m2-zecore-module

@@ -2,6 +2,6 @@
 <!--Copyright © 2021 Evgenii e@zab.bz-->
 <!--See LICENSE for license details. -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="EvgeniiZab_EZCore" setup_version="1.0.0">
+    <module name="ZEV_EZCore" setup_version="1.0.0">
     </module>
 </config>
